@@ -1,0 +1,15 @@
+/Users/ckheinz/Workspaces/Learning/CSharp/FizzBuzz/bin/Debug/net5.0/FizzBuzz.deps.json
+/Users/ckheinz/Workspaces/Learning/CSharp/FizzBuzz/bin/Debug/net5.0/FizzBuzz.runtimeconfig.json
+/Users/ckheinz/Workspaces/Learning/CSharp/FizzBuzz/bin/Debug/net5.0/FizzBuzz.runtimeconfig.dev.json
+/Users/ckheinz/Workspaces/Learning/CSharp/FizzBuzz/bin/Debug/net5.0/FizzBuzz.dll
+/Users/ckheinz/Workspaces/Learning/CSharp/FizzBuzz/bin/Debug/net5.0/ref/FizzBuzz.dll
+/Users/ckheinz/Workspaces/Learning/CSharp/FizzBuzz/bin/Debug/net5.0/FizzBuzz.pdb
+/Users/ckheinz/Workspaces/Learning/CSharp/FizzBuzz/obj/Debug/net5.0/FizzBuzz.csproj.AssemblyReference.cache
+/Users/ckheinz/Workspaces/Learning/CSharp/FizzBuzz/obj/Debug/net5.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ckheinz/Workspaces/Learning/CSharp/FizzBuzz/obj/Debug/net5.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/ckheinz/Workspaces/Learning/CSharp/FizzBuzz/obj/Debug/net5.0/FizzBuzz.AssemblyInfo.cs
+/Users/ckheinz/Workspaces/Learning/CSharp/FizzBuzz/obj/Debug/net5.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/ckheinz/Workspaces/Learning/CSharp/FizzBuzz/obj/Debug/net5.0/FizzBuzz.dll
+/Users/ckheinz/Workspaces/Learning/CSharp/FizzBuzz/obj/Debug/net5.0/ref/FizzBuzz.dll
+/Users/ckheinz/Workspaces/Learning/CSharp/FizzBuzz/obj/Debug/net5.0/FizzBuzz.pdb
+/Users/ckheinz/Workspaces/Learning/CSharp/FizzBuzz/obj/Debug/net5.0/FizzBuzz.genruntimeconfig.cache
